@@ -3,7 +3,7 @@
 <!--
 **MrThanksfactory/MrThanksfactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on https://github.com/Armibule/jai_pas_trouve_de_nom_io
 - 🌱 I’m currently in learning from the Computer Base (NSI) first year
