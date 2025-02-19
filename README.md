@@ -8,7 +8,7 @@
 - 🌱 I’m currently in learning from the Computer Base (NSI) first year
 - 👯 I’m looking for collaborates with @Armibule 
 - 🤔 I’m looking for help with Python and some html
-- 💬 Ask me about ...
+- 💬 Ask me about https://scratch.mit.edu/users/BobG4/
 - 📫 How to reach me: hurielmercier0@gmail.com
 - 😄 Pronouns: Huhu222
 - ⚡ Fun fact: ...
