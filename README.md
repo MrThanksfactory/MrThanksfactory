@@ -11,5 +11,8 @@
 - 💬 Ask me about https://scratch.mit.edu/users/BobG4/
 - 📫 How to reach me: hurielmercier0@gmail.com
 - 😄 Pronouns: Huhu222
-- ⚡ Fun fact: ...
+- 👀 To look at my projects: https://my.numworks.com/python/huriel-mercier 😊👌👍
+- ⚡ Fun fact: ... I participated in the hackaton CSAW 2024, it is a competition of Cybersecurity in Auvergne!
+         team in solo 48th place out of 130 teams 1st phase of the challenges, 78th out of 130 team during the 2nd phases.
+         I want to participate in the THCON 2025 Capture The Flag on April 12.
 -->
