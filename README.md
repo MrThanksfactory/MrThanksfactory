@@ -9,7 +9,7 @@
 - 👯 I’m looking for collaborates with @Armibule 
 - 🤔 I’m looking for help with Python and some html
 - 💬 Ask me about https://scratch.mit.edu/users/BobG4/
-- 📫 How to reach me: hurielmercier0@gmail.com
+- 📫 How to reach me: Sur discord mon pseudo est Mr.Thanks(mr.thanks_06198)
 - 😄 Pronouns: Huhu222
 - 👀 To look at my projects: https://my.numworks.com/python/huriel-mercier 😊👌👍
 - ⚡ Fun fact: ... I participated in the hackaton CSAW 2024, it is a competition of Cybersecurity in Auvergne!
