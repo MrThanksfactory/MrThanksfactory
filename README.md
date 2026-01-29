@@ -4,7 +4,7 @@
 **MrThanksfactory/MrThanksfactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # About me
 
-- 🔭 I’m currently working on https://github.com/Armibule/jai_pas_trouve_de_nom_io
+- 🔭 I’m currently working on nothing dont worries guys a superior me talk shush !
 - 🌱 I'm currently specializing in NSI during my senior year (12th grade).
 - 👯 I’m looking for collaborates with @Armibule 
 - 🤔 I’m looking for help with Python and some html
