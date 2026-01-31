@@ -15,4 +15,4 @@
 - ⚡ Fun fact: ... I participated in the hackaton CSAW 2024, it is a competition of Cybersecurity in Auvergne!
          team in solo 48th place out of 130 teams 1st phase of the challenges, 78th out of 130 team during the 2nd phases.
          I want to participate in the THCON 2025 Capture The Flag on April 12.
--->
+  <!-- futur banières Vous pouvez m’écrire à l’adresse suivante dans des rares cas (mail pro); Pronouns: He; Pseudo= l'ancien Pronouns; -->
