@@ -5,7 +5,7 @@
 # About me
 
 - 🔭 I’m currently working on nothing don't worries guys a superior told me to shut up!
-- 🌱 I'm currently specializing in NSI during my senior year (12th grade).
+- 🌱 I'm currently specializing in NSI during my senior year of HS (12th grade).
 - 👯 I’m looking for collaborates with @Armibule 
 - 🤔 I’m looking for help with Python and some html
 - 💬 Ask me about https://scratch.mit.edu/users/BobG4/
