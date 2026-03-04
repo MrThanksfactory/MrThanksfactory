@@ -1,0 +1,9 @@
+Readme.md
+-------------------------------------------------------------------------------------------------------
+<hr>
+ATTENTION, ce site a était fait à 80% avec de l'IA !
+Il a était surtout utilisé pour le côté design du site UX .
+Voici mon site readme direct qui explique en largeur qui je suis et quels sont mes objectifs.
+Je m'excuse par avance pour le fait que je ne puisse pas faire de site UX sans utiliser de l'IA.
+C'est d'ailleurs pour ça que mes autres sites ressemble à des sites de 2007 !
+
